@@ -1,0 +1,18 @@
+{
+    "name": "ully/package",
+    "description": "example",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ulngollm",
+            "email": "ulngollm@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "RandomPassword\\": "src/Demo/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
