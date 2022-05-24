@@ -2,6 +2,7 @@
     "name": "ully/package",
     "description": "example",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "ulngollm",
