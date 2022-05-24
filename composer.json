@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-          "RandomPassword\\": "src/Demo/"
+          "Demo\\": "src/Demo/"
         }
     },
     "minimum-stability": "stable",
