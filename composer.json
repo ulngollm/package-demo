@@ -14,6 +14,6 @@
           "RandomPassword\\": "src/Demo/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
